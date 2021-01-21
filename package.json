@@ -13,6 +13,6 @@
 	"sqlite3": "latest",
 	"ejs": "latest",
 	"cors": "latest",
-	"debug": "latest"
+	"debug": "4.3.2"
   }
 }
